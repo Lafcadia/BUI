@@ -1,0 +1,2 @@
+watchdog
+PySide6
